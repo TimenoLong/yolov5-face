@@ -18,4 +18,4 @@ val: /ssd_1t/derron/yolov5-face/data/widerface/val  # 16551 images
 nc: 1
 
 # class names
-names: [ 'face']
+names: ['face']
